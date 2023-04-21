@@ -29,7 +29,7 @@ export default function BottomTabNavigator() {
             margin: 10,
             backgroundColor: "black",
             elevation: 0,
-            height: "8%",
+            height: "9%",
           },
         }}>
         <BottomTab.Screen
